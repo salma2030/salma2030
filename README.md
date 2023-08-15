@@ -2,7 +2,7 @@
 
 
 <!--
-**salmaabdullah/salmaabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**salma2030/salma2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
