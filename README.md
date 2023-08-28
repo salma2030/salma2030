@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salma2030&label=Profile%20views&color=0e75b6&style=flat" alt="salma2030" /> </p>
 
-- 🌱 I’m currently learning **ERPNext and Frappe**
+- 🌱 I’m currently Working on  **ASP.net MVC & C#**
 - 📘 passionate to learn more.
 - ⚡ Always have a faith
 
